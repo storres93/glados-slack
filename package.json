@@ -1,0 +1,18 @@
+{
+  "name": "glados-slack",
+  "version": "0.0.0",
+  "description": "Bot for slack with multiple integrations",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:storres93/glados-slack.git"
+  }
+  "author": "Sebastian Torres",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.5.0"
+  }
+}
